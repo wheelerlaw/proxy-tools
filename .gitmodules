@@ -1,0 +1,9 @@
+[submodule "connectproxy"]
+	path = connectproxy
+	url = https://gist.github.com/wheelerlaw/a28c7461d9070a9d746b185aefaef05b
+[submodule "docker-https-dns-proxy"]
+	path = docker-https-dns-proxy
+	url = https://github.com/wheelerlaw/docker-https-dns-proxy
+[submodule "docker-redsocks"]
+	path = docker-redsocks
+	url = https://github.com/wheelerlaw/docker-redsocks
